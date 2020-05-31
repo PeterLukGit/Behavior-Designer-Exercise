@@ -4,8 +4,13 @@ Behavior-Designer 是一個行為樹插件，
 
 用來建立行為樹、FSM狀態機....之類，用於AI系統上的插件
 
+![](https://github.com/PeterLukGit/Behavior-Designer-Exercise/blob/master/00.PNG)
+
+![](https://github.com/PeterLukGit/Behavior-Designer-Exercise/blob/master/01.PNG)
+
 # 比較
 
+![](https://github.com/PeterLukGit/Behavior-Designer-Exercise/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E5%9C%96%E8%A1%A8.png)
 
 # 注意
 
